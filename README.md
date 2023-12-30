@@ -21,8 +21,7 @@
 
 
 ## Penguin Run
-![image](https://github.com/KaitLand12/Portfolio/assets/81109745/48282047-ac08-4b9f-b0a4-2aba7b18b834)
-![image](https://github.com/KaitLand12/Portfolio/assets/81109745/02fa18e3-874b-403a-bf0e-b77a310e20eb)
+![image](https://github.com/KaitLand12/Portfolio/assets/81109745/45de08cd-9b75-4e6d-9044-d71f216fb988)
 
 ### Concept
 * The main characters of the game are an adult penguin and a baby penguin
