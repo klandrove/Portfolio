@@ -32,3 +32,8 @@
 [Penguin Run demo video](https://youtu.be/q8xg1pab1MY)
 
 [C# Files](PenguinRun/code)
+
+### Assets
+* Sprites, props, and backgrounds drawn through Adobe Illustrator
+* Animations made on Adobe Animate and Unity
+* Music from Pixabay
