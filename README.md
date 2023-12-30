@@ -1,5 +1,5 @@
 # Kaitlyn Landrove
-## Space Base Game
+## Space Base
 ![image](https://github.com/KaitLand12/Portfolio/assets/81109745/b7b10ba5-92b7-403f-b61f-eba9daf6a374)
 ### Concept
 * The player is an astronaut on a base on an unknown planet
@@ -18,3 +18,17 @@
 * [Pipes](https://opengameart.org/content/puzze-pipe-set)
 * [Music](https://pixabay.com/music/ambient-cosmic-glow-6703/)
 * [Rocket](https://clipartmag.com/download-clipart-image#rocket-clipart-7.png)
+
+## Penguin Run
+![image](https://github.com/KaitLand12/Portfolio/assets/81109745/48282047-ac08-4b9f-b0a4-2aba7b18b834)
+![image](https://github.com/KaitLand12/Portfolio/assets/81109745/02fa18e3-874b-403a-bf0e-b77a310e20eb)
+
+### Concept
+* The main characters of the game are an adult penguin and a baby penguin
+* The penguins were separated when ice drifted the baby away
+* The adult penguin (controlled by the player) must collect fish on its journey to reunite with the baby
+* The way to the baby is full of obstacles such as a broken paths of ice and falling icicles, along with a leopard seal in later levels
+
+[Penguin Run demo video](https://youtu.be/q8xg1pab1MY)
+
+[C# Files](PenguinRun/code)
