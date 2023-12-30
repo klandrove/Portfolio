@@ -1,6 +1,11 @@
 # Kaitlyn Landrove
 ## Space Base Game
 ![image](https://github.com/KaitLand12/Portfolio/assets/81109745/b7b10ba5-92b7-403f-b61f-eba9daf6a374)
+### Concept
+* The player is an astronaut on a base on an unknown planet
+* They are given tasks via computers located throughout the base
+* The tasks are mini games related to the space theme
+
 [Space Base demo video](https://youtu.be/PGnRlaOzx1E)
 
 [C# Files](SpaceBase/code)
