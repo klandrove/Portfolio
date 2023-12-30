@@ -33,6 +33,8 @@
 
 [C# Files](PenguinRun/code)
 
+[Assets](PenguinRun/assets)
+
 ### Assets
 * Sprites, props, and backgrounds drawn through Adobe Illustrator
 * Animations made on Adobe Animate and Unity
